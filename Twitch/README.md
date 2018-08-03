@@ -1,3 +1,3 @@
 # Codecademy + Twitch
 
-https://www.codecademy.com/articles/sql-twitch
+https://www.codecademy.com/courses/dspath-twitch/articles/twitch-project
