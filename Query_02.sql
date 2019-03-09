@@ -1,0 +1,1 @@
+select distinct(game) from video_play;

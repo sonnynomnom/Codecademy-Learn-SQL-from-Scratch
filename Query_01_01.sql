@@ -1,0 +1,1 @@
+select * from chat limit 20;

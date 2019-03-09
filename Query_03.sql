@@ -1,0 +1,1 @@
+select distinct(channel) from video_play;
